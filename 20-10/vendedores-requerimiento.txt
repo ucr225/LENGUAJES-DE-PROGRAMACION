@@ -1,0 +1,55 @@
+
+====================================================================================================
+--- VALORES INGRESADOS ====> 
+Productos tipo  # 1 vendidos para el vendedor urieel : 3 
+Productos tipo  # 2 vendidos para el vendedor urieel : 1 
+Productos tipo  # 3 vendidos para el vendedor urieel : 1 
+
+----------------------------------
+Productos tipo  # 1 vendidos para el vendedor jose : 2 
+Productos tipo  # 2 vendidos para el vendedor jose : 2 
+Productos tipo  # 3 vendidos para el vendedor jose : 2 
+
+----------------------------------
+Productos tipo  # 1 vendidos para el vendedor pedo : 6 
+Productos tipo  # 2 vendidos para el vendedor pedo : 6 
+Productos tipo  # 3 vendidos para el vendedor pedo : 6 
+
+----------------------------------
+Productos tipo  # 1 vendidos para el vendedor luis : 9 
+Productos tipo  # 2 vendidos para el vendedor luis : 9 
+Productos tipo  # 3 vendidos para el vendedor luis : 9 
+
+----------------------------------
+Productos tipo  # 1 vendidos para el vendedor aarron : 12 
+Productos tipo  # 2 vendidos para el vendedor aarron : 12 
+Productos tipo  # 3 vendidos para el vendedor aarron : 12 
+
+----------------------------------
+
+====================================================================================================
+
+====SUMATORIA DE ARTICULOS VENDIDOS PARA CADA VENDEDOR =====
+Total de productos vendidos por el vendedor  urieel : 5 
+
+----------------------------------
+Total de productos vendidos por el vendedor  jose : 6 
+
+----------------------------------
+Total de productos vendidos por el vendedor  pedo : 18 
+
+----------------------------------
+Total de productos vendidos por el vendedor  luis : 27 
+
+----------------------------------
+Total de productos vendidos por el vendedor  aarron : 36 
+
+----------------------------------
+
+++++++++++++++++++++++
+
+Venta total de TODOS los vendedores: 92 
+
+++++++++++++++++++++++
+
+=EL DE MENOR MONTO DE  VENTAS ES EL VENDEDOR DE NOMBRE urieel ==
